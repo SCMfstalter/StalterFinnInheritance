@@ -1,3 +1,6 @@
+//Finn Stalter
+//CIS 1202 5T1
+// 7/30/23
 #include "Car.h"
 #include <iostream>
 
